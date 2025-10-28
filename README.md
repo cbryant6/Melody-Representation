@@ -1,7 +1,7 @@
 # TECHIN 509 Melody Representation
 
-# Tokens as strings are easy to print, compare, and count; no extra structure needed for the basic task.
-# A list of melodies keeps dataset boundaries clear; flattening is one line when needed.
+### Tokens as strings are easy to print, compare, and count; no extra structure needed for the basic task.
+### A list of melodies keeps dataset boundaries clear; flattening is one line when needed.
 
 ```python
 from collections import Counter
